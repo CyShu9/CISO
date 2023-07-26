@@ -1,0 +1,66 @@
+5 Tips for Successfully Navigating C-Suite and Board Communication as a CISO
+
+
+
+Even the most experienced CISOs can struggle to communicate effectively with their Board of Directors and Executive team. This is not a surprise given the challenges CISOs are commonly up against, which include:
+
+Having very limited time to communicate their cybersecurity message to the board as many CISOs are only given 10-15 minutes a quarter with the board
+Determining how to communicate a complex and dynamic topic such as cyber to a board that has varying levels of security knowledge and understanding
+Aligning security goals and practices with the business objectives
+Creating a security strategy that properly protects the business while meeting various regulatory and vendor requirements with very limited resources
+When it comes to effectively communicating cybersecurity to your board and executive team there is no one-size-fits-all approach, as every company and board is different.  However, after working with over 100 CISOs and conducting dozens of interviews with board members, executives and security experts, I have identified commonalities amongst CISOs who deliver successful cyber updates.
+
+In this blog, I will cover the top five success factors used by CISOs to communicate successfully to their board and executive peers.  I would also like to invite you to join our CISO Community to access an example board template we designed using these success factors and other great resources.
+
+ 
+
+Five success factors for communicating effectively to your board and executive team:
+
+#1 Have focused board discussions 
+
+As your time in front of the board is very limited, you may instinctively want to cover as much as you can with your cyber update, but having more targeted discussions has proven to be more effective.
+
+At the start of the year you may focus your board update on explaining how your security strategy and roadmap for the year is aligned to the objectives communicated by the business and IT.  Throughout the year, your updates may look a little different depending on company changes, security challenges and world events.
+
+For example, if there is a security event or vulnerability that has been widely publicized, you may want to focus your discussion on how you are protecting the company against this risk and how you are making any needed improvements to increase protection.  Otherwise you may use your time with the board to focus on the progress you’ve made maturing your security program over the past few months and how you are tracking against your planned roadmap.
+
+ 
+
+#2 Tell your cybersecurity story
+
+CISOs spend countless hours compiling information about their cybersecurity program in preparation for an upcoming executive and/or board meeting, but don’t spend nearly enough time focused on what their cybersecurity story is and how they can tell it.  While providing cyber updates using quantitative data is critical, what’s even more important is the story and context behind the information.  Two companies can have the exact same information, but have polar opposite cyber stories.
+
+I had a client whose maturity scores didn’t improve over a 3-year period. If data was all that was presented this could easily be interpreted as a failure of progress. But when they focused the narrative around the successful integration of the multiple acquisitions they had over the past few years, the focus shifted to the successful expansion of the security program to fulfill strategic objectives for business growth.
+
+Many CISOs find success in first determining what their cybersecurity story is and the message they want to convey to the board and the executive team and then gathering relevant information to show and support that story.
+
+Example slide demonstrating the journey of where their security program started, their current security posture and top risks identified and then the where they are headed
+Example slide demonstrating the journey of where their security program started, their current security posture and top risks identified and then the where they are headed
+#3 Communicate in terms of risk as it’s the love language of the board 
+
+Boards spend a lot of their attention focused on revenue-generating initiatives and the risks that may prevent them from accomplishing those initiatives.  While cybersecurity maturity resonates with CISOs and security professionals, its immediate value may not translate well with the board or other non-security executives. Simply put, members of the board speak the language of business risk.
+
+One effective way to be part of the strategic conversation and demonstrate your cybersecurity program aligns to the business is by presenting the top risks to key business functions and how well you’re protecting against them.  Consider communicating in terms of how well your security program is protecting key business processes and avoid myopic discussions centered around compliance and maturity scores.  It is also helpful to explicitly address why each of the security elements matter to the business and the business impact if the risk isn’t properly mitigated.
+
+Example slide displaying how well protected the key business processes are based on a company’s current security posture.
+Example slide displaying how well protected the key business processes are based on a company’s current security posture.
+#4 Demonstrate how security enables the business goals 
+
+It is important that the board views cybersecurity as an enabler of the business, not an inhibitor. In addition to mitigating risk, it is important to identify how your security program helps the business grow and generate revenue.  Consider quantifying the value (e.g., revenue, time/resources saved or gained) that security enables by meeting specific security measures that your customers demand (e.g., SOC2, CMMC, PCI compliance).
+
+ 
+
+#5 Take a holistic and strategic approach to security
+
+Diving too deep into the technical and tactical items can leave your board and executive teams disengaged and questioning why any of this matters to them.  Elevate your discussion to be more strategic and business focused. So instead of discussing operational vulnerability metrics or average incident response time, elevate your discussion with the board and executive team to cover how you’re better protecting their key business operations.
+
+Additionally, demonstrate how real-world events may have an impact on security and what you’re doing to address them.  This can be something as simple as discussing how you’re protecting the company against a recent ransomware attack that plagued a similar company or can be more complex such as how the current economic environment can lead to increased risk of fraud and security events and how you’re preparing the company to mitigate that risk.
+
+It is also important to discuss with your board and executive team your overall security strategy and roadmap and how you’re tracking against it.  Boards are usually interested in whether you are on track with your security initiatives or if your team has hit any roadblocks and if so how they are being handled.
+
+Example slide displaying how well protected the key business processes are based on a company’s current security posture.
+Example slide showing progress against a previously communicated security roadmap
+Remember that effectively communicating to your board and executive team is an iterative process that will continue to improve as you learn more about the board’s personality and determine which techniques work best for you and them.  Because every board and company is unique, it’s critical to leverage the common success factors that we’ve seen work well across various industries and boards and integrate them with your own success factors that work well for your specific company and board.
+
+By combining your tried-and-true success factors with these collective best practices you’re setting up your board discussions to be more meaningful and effective.  To help you get started, we, in collaboration with our CISO community, have created a presentation toolkit exclusive to Blue Lava Community members.  This presentation toolkit has proven successful with CISOs, Boards and other executives and is a great starting point to help you translate security speak into the language of the business.
+
